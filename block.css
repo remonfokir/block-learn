@@ -1,0 +1,25 @@
+span {
+        color: blue;
+        background-color: chartreuse;
+}
+h1{display: inline;
+background-color: yellowgreen;
+}
+div{  
+        height: 200px;
+        width: 200px;
+        padding: 40px ;
+        margin: 50px;
+   
+}
+span{
+     background-color: turquoise;
+     margin: 10px;
+
+}
+h2{ 
+        background-color: turquoise;
+}
+p{
+        background-color: turquoise;
+}
